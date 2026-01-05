@@ -9,7 +9,9 @@ This project implements a credit score classification model that predicts custom
 <p align="center">
 <img width="600px" src="https://github.com/user-attachments/assets/86cc219c-882f-4932-867a-e1d6bb1dcadc"/>
 </p>
-  
+<p align="center">
+Accuracy scores
+</p>
 ## Features
 
 - Comprehensive data cleaning and preprocessing
@@ -72,5 +74,6 @@ The preprocessing pipeline includes:
 - Payment behavior and credit history age processing
 - Missing value imputation
 - Categorical variable encoding
+
 
 
