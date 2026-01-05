@@ -6,9 +6,9 @@ A machine learning project for credit score classification using XGBoost.
 
 This project implements a credit score classification model that predicts customer credit scores based on various financial and personal features. The model uses extensive data cleaning and preprocessing techniques to handle missing values, outliers, and categorical variables.
 
-<p  align="center">
+<p align="center">
 <img width="600px" src="https://github.com/user-attachments/assets/86cc219c-882f-4932-867a-e1d6bb1dcadc"/>
-/p>
+</p>
   
 ## Features
 
@@ -72,4 +72,5 @@ The preprocessing pipeline includes:
 - Payment behavior and credit history age processing
 - Missing value imputation
 - Categorical variable encoding
+
 
